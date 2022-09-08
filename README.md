@@ -2,8 +2,8 @@
 # 황혼 데이팅 서비스 임자야 (팀명 : 나이는 숫자일 뿐이조)
 
 
+![제일맨위1](https://user-images.githubusercontent.com/71622615/189044843-3e6acea8-58e6-456f-9301-ada9285b9bfe.png)
 
-![1 프로젝트명_팀명](https://user-images.githubusercontent.com/71622615/189019115-a56ffdd0-16e1-4f97-854c-9c2e58e0ea7e.png)
 
 # 👀 프로젝트 소개
 * 프로젝트명 : 황혼 데이팅 서비스 임자야
@@ -78,10 +78,21 @@
 </table>
 
 # 📌E-R Diagram
-![9 ER다이어그램](https://user-images.githubusercontent.com/71622615/189018234-d2977d11-7b0e-4991-b7c4-bd2eb7e2279a.png)
+![리얼최종_er_다이어그램](https://user-images.githubusercontent.com/71622615/189044935-b5bb125b-b444-4f58-a784-52be1821dd9d.png)
+
 
 # 💻 서비스 흐름
-![10 화면구성](https://user-images.githubusercontent.com/71622615/189018251-32e9ec6a-4d44-474d-be6d-e75f72c8876e.png)
+![서비스흐름도_리얼](https://user-images.githubusercontent.com/71622615/189044959-360db647-5de2-4bda-90c8-c251c41003a4.png)
+
+# 메인 페이지
+![메인화면](https://user-images.githubusercontent.com/71622615/189045004-bd633a5d-3bb6-4733-afa3-4f8f0a8236c2.png)
+
+# 인연 찾기
+![인연찾기](https://user-images.githubusercontent.com/71622615/189045064-53207f86-f859-4f13-b1e7-da3bf5e08bc2.png)
+
+# 모임 찾기
+![모임찾기](https://user-images.githubusercontent.com/71622615/189045094-02be8d13-9c74-4e61-a09f-d750e716a7a6.png)
+
 
 # 👨‍👩‍👦‍👦 팀원 역할
 <table>
@@ -110,18 +121,18 @@
     <td align="center"><b>Frontend 총괄</b></td>
   </tr>
    <tr>
-    <td align="center"><b>DB 설계<br>빅 엔드 설계<br>완성 기능 검수<br> 오류 수정</b></td>
+    <td align="center"><b>DB 설계<br>빅 엔드 설계<br>기능 검수<br> 오류 수정</b></td>
     <td align="center"><b>개인 정보 수정<br> 프로필 작성<br>모임 생성<br></b></td>
     <td align="center"><b>요구 사항 분석<br>경쟁사 분석<br> 시장 조사<br>회원 가입<br> 로그인<br> 로그 아웃</b></td>
     <td align="center"><b>모임 상세<br> 친구 추가<br> 메세지<br>PPT 제작<br> 기획서 작성</b></td>
     <td align="center"><b>프로필 정보 수정<br> 모임 게시판<br> 댓글<br>자료 조사<br>DB 구현</b></td>
-    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능 구현<br>서비스 흐름도 제작<br>ER 다이어 그램 설계</b></td>
+    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능<br>서비스 흐름도 제작<br>ER 다이어 그램</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sjhyung12?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/juhyeparkkk?tab=repositories" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/Anhyeonjoo?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/SWCWe?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/lhj1111?tab=repositories" target='_blank'>github</a></td>
 
