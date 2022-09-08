@@ -5,7 +5,8 @@
 
 # 👀 프로젝트 소개
 * 프로젝트명 : 황혼 데이팅 서비스 임자야
-* 개발목표 : 초고령화 사회에 접어 들며 노인 인구의 비율이 증가 함에 따라 노인 우울증 및 황혼 이혼이 늘어 남에 따라
+* 개발목표 : 고령화 사회로 접어들면서 노년기 우울증, 노인 소외, 황혼 이혼이 사회적 문제로 제기되고 있으며 이를 겪는 노년 인구의 비율이 점차 증가 하고 있다.
+이러한 문제를 해결 하기 위해 황혼 인연 매칭 서비스를 제안하였으며 기존 서비스 들과 달리 황혼 연령을 대상으로 제안하는 서비스  이므로 황혼 연령에 맞는 UI와 기능을 제공한다.
 
 # 🗓️ 프로젝트 기간
 2022.08.16 ~ 2022.09.07 (4주)
@@ -107,20 +108,20 @@
     <td align="center"><b>Frontend 총괄</b></td>
   </tr>
    <tr>
-    <td align="center"><b>DB 설계<br>빅 엔드 기획 설계<br>완성 기능 검수 및 오류 수정</b></td>
+    <td align="center"><b>DB 설계<br>빅 엔드 설계<br>완성 기능 검수<br> 오류 수정</b></td>
     <td align="center"><b>개인 정보 수정<br> 프로필 작성<br>모임 생성<br></b></td>
     <td align="center"><b>요구 사항 분석<br>경쟁사 분석<br> 시장 조사<br>회원 가입<br> 로그인<br> 로그 아웃</b></td>
     <td align="center"><b>모임 상세<br> 친구 추가<br> 메세지<br>PPT 제작<br> 기획서 작성</b></td>
-    <td align="center"><b>프로필 정보 수정<br> 모임 게시판<br> 댓글<br>자료 조사 및 정리<br>DB 구현</b></td>
-    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능 구현<br>서비스 흐름도 제작<br>ER 다이어 그램 수정 및 설계</b></td>
+    <td align="center"><b>프로필 정보 수정<br> 모임 게시판<br> 댓글<br>자료 조사<br>DB 구현</b></td>
+    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능 구현<br>서비스 흐름도 제작<br>ER 다이어 그램 설계</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/sjhyung12" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/sjhyung12?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="" target='_blank'>github</a></td>
     <td align="center"><a href="" target='_blank'>github</a></td>
     <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/SWCWe?tab=repositories" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/lhj1111?tab=repositories" target='_blank'>github</a></td>
 
   </tr>
 </table>
