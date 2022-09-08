@@ -1,8 +1,9 @@
 
 # 황혼 데이팅 서비스 임자야 (팀명 : 나이는 숫자일 뿐이조)
+![제일맨위1](https://user-images.githubusercontent.com/71622615/189047571-c23f6bfb-71b4-4a17-8f62-3cd54f2d0a4c.png)
 
 
-![제일맨위1](https://user-images.githubusercontent.com/71622615/189044843-3e6acea8-58e6-456f-9301-ada9285b9bfe.png)
+
 
 
 # 👀 프로젝트 소개
@@ -78,20 +79,23 @@
 </table>
 
 # 📌E-R Diagram
-![리얼최종_er_다이어그램](https://user-images.githubusercontent.com/71622615/189044935-b5bb125b-b444-4f58-a784-52be1821dd9d.png)
+![리얼최종_er_다이어그램](https://user-images.githubusercontent.com/71622615/189047602-9b437930-928e-4dbb-b38b-b09bd9da2724.png)
 
 
 # 💻 서비스 흐름
-![서비스흐름도_리얼](https://user-images.githubusercontent.com/71622615/189044959-360db647-5de2-4bda-90c8-c251c41003a4.png)
+![서비스흐름도_리얼](https://user-images.githubusercontent.com/71622615/189047622-808b8717-7890-49b5-a90d-1a343ad1d00d.png)
 
 # 메인 페이지
-![메인화면](https://user-images.githubusercontent.com/71622615/189045004-bd633a5d-3bb6-4733-afa3-4f8f0a8236c2.png)
+![메인화면](https://user-images.githubusercontent.com/71622615/189047654-2a9753d3-a35a-4857-9626-af7ffb6b2354.png)
+
 
 # 인연 찾기
-![인연찾기](https://user-images.githubusercontent.com/71622615/189045064-53207f86-f859-4f13-b1e7-da3bf5e08bc2.png)
+![인연찾기](https://user-images.githubusercontent.com/71622615/189047680-adbd93b9-d30c-4d9e-bd1b-22abf135acce.png)
+
 
 # 모임 찾기
-![모임찾기](https://user-images.githubusercontent.com/71622615/189045094-02be8d13-9c74-4e61-a09f-d750e716a7a6.png)
+![모임찾기](https://user-images.githubusercontent.com/71622615/189047695-91e93137-a268-419d-b43e-4b09e2d201a3.png)
+
 
 
 # 👨‍👩‍👦‍👦 팀원 역할
