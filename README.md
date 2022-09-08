@@ -1,5 +1,7 @@
-# 중, 노년 층을 위한 데이팅 서비스 임자야 (팀명 : 나이는 숫자일 뿐이조)
-<img src = "C:\Users\Administrator\Desktop\Github사진\Github사진\1.프로젝트명_팀명.png">
+
+# 중, 노년 층을 위한![9 ER다이어그램](https://user-images.githubusercontent.com/71622615/189018234-d2977d11-7b0e-4991-b7c4-bd2eb7e2279a.png)
+ 데이팅 서비스 임자야 (팀명 : 나이는 숫자일 뿐이조)
+![Uploading 9.E![10 화면구성](https://user-images.githubusercontent.com/71622615/189018251-32e9ec6a-4d44-474d-be6d-e75f72c8876e.png)
 
 # 👀 프로젝트 소개
 * 프로젝트명 : 황혼 데이팅 서비스 임자야
@@ -73,10 +75,10 @@
 </table>
 
 # 📌E-R Diagram
-<img src ="C:\Users\Administrator\Desktop\Github사진\Github사진\9.ER다이어그램.png">
+![Uploading 9.ER다이어그램.png…]()
 
-# 💻화면 구성
-<img src="C:\Users\Administrator\Desktop\Github사진\Github사진\10.화면구성.png">
+# 💻 서비스 흐름
+![Uploading 10.화면구성.png…]()
 
 # 👨‍👩‍👦‍👦 팀원 역할
 <table>
