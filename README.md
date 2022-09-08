@@ -77,7 +77,7 @@
 ![9 ER다이어그램](https://user-images.githubusercontent.com/71622615/189018234-d2977d11-7b0e-4991-b7c4-bd2eb7e2279a.png)
 
 # 💻 서비스 흐름
-![Uploading 9.E![10 화면구성](https://user-images.githubusercontent.com/71622615/189018251-32e9ec6a-4d44-474d-be6d-e75f72c8876e.png)
+![10 화면구성](https://user-images.githubusercontent.com/71622615/189018251-32e9ec6a-4d44-474d-be6d-e75f72c8876e.png)
 
 # 👨‍👩‍👦‍👦 팀원 역할
 <table>
@@ -107,11 +107,11 @@
   </tr>
    <tr>
     <td align="center"><b>DB 설계<br>빅 엔드 기획 설계<br>완성 기능 검수 및 오류 수정</b>></td>
-    <td align="center"><b>개인 정보 수정, 프로필 작성<br>모임 생성<br></b></td>
-    <td align="center"><b>요구 사항 분석<br>경쟁사 분석, 시장 조사<br>회원 가입, 로그인, 로그 아웃</b></td>
-    <td align="center"><b>모임 상세, 친구 추가, 메세지<br>PPT 제작, 기획서 작성</b></td>
-    <td align="center"><b>프로필 정보 수정, 모임 게시판, 댓글<br>자료 조사 및 정리<br>DB 구현</b></td>
-    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭, 필터링 매칭<br>모임 찾기 기능 구현<br>서비스 흐름도 제작<br>ER 다이어 그램 수정 및 설계</b></td>
+    <td align="center"><b>개인 정보 수정<br> 프로필 작성<br>모임 생성<br></b></td>
+    <td align="center"><b>요구 사항 분석<br>경쟁사 분석<br> 시장 조사<br>회원 가입<br> 로그인<br> 로그 아웃</b></td>
+    <td align="center"><b>모임 상세<br> 친구 추가<br> 메세지<br>PPT 제작<br> 기획서 작성</b></td>
+    <td align="center"><b>프로필 정보 수정<br> 모임 게시판<br> 댓글<br>자료 조사 및 정리<br>DB 구현</b></td>
+    <td align="center"><b>프론트 엔드 총괄<br>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능 구현<br>서비스 흐름도 제작<br>ER 다이어 그램 수정 및 설계</b></td>
   </tr>
   <tr>
     <td align="center"><a href="" target='_blank'>github</a></td>
