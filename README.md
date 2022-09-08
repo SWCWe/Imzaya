@@ -117,12 +117,12 @@
     <td align="center"><strong>이형준</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Project 총괄</b></td>
-    <td align="center"><b>CSS 총괄</b></td>
-    <td align="center"><b>요구사항 분석 총괄</b></td>
-    <td align="center"><b>Design 총괄</b></td>
-    <td align="center"><b>Backend 총괄</b></td>
-    <td align="center"><b>Frontend 총괄</b></td>
+    <td align="center"><b>기획/설계</b></td>
+    <td align="center"><b>CSS</b></td>
+    <td align="center"><b>요구사항 분석</b></td>
+    <td align="center"><b>Design</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frontend</b></td>
   </tr>
    <tr>
     <td align="center"><b>DB 설계<br>빅 엔드 설계<br>기능 검수<br> 오류 수정</b></td>
@@ -130,7 +130,7 @@
     <td align="center"><b>경쟁사 분석<br> 시장 조사<br>회원 가입<br> 로그인<br> 로그 아웃</b></td>
     <td align="center"><b>모임 상세<br> 친구 추가<br> 메세지<br>PPT 제작<br> 기획서 작성</b></td>
     <td align="center"><b>프로필 수정<br> 모임 게시판<br> 댓글<br>자료 조사<br>DB 구현</b></td>
-    <td align="center"><b>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능<br>서비스 흐름도 제작<br>ER 다이어 그램</b></td>
+    <td align="center"><b>랜덤 매칭<br> 필터링 매칭<br>모임 찾기 기능<br>서비스 흐름도<br>ER 다이어 그램</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sjhyung12?tab=repositories" target='_blank'>github</a></td>
