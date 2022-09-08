@@ -1,0 +1,415 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Forty by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+
+		<!--글씨폰트 태그-->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+
+<style>
+
+
+body{
+	font-family: 'Jua', sans-serif;
+	/* background-color:#ffd9e9; */
+}
+.button{
+    color: #ffffff;
+   
+    background-color: #ffc3dc;
+
+    font-family: 'Jua', sans-serif;
+    font-size: 0.8em;
+
+    border-radius: 25px;
+}
+
+
+	/*로그인 스타일 적용*/
+
+	/* body {
+    background-color: #F3F4F9;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+#form-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+	
+	margin-bottom: 10%;
+}
+
+#form-inner-container {
+    background-color: white;
+    max-width: 70%;
+    border-radius: 8px;
+    box-shadow: 0 0 20px gainsboro;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#sign-up-container, #sign-in-container {
+    padding: 60px 80px;
+    width: 320px;
+    display: inline-block;
+
+}
+
+form input{
+    display: block;
+    margin-bottom: 30px;
+    border: 1px solid #E5E9F5;
+    background-color: #F6F7FA;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#form-controls {
+    margin-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+
+h2,h3 {
+    color: black;
+    
+	
+    font-weight: 500;
+
+	text-align: center;
+	font-family: 'Jua', sans-serif;
+}
+
+label {
+    color: #7369AB;
+	font-size: 25px;
+}
+
+::placeholder {
+    color: #C0C7DB;
+    font-size: larger;
+    letter-spacing: 1.2px;
+}
+
+#form-controls button {
+    border: none;
+    font-size: 120%;
+	
+}
+
+#form-controls button:hover {
+    cursor: pointer;
+}
+
+button[type="submit"] {
+    padding: 1px 75px;
+    background-color: #ffadcf;
+    border-radius: 10px;
+    color: white;
+	font-family: 'Jua', sans-serif;
+	
+	
+	
+}
+
+button[type="submit"]:hover {
+    background-color: #f47685;
+}
+
+button[type="button"] {
+	padding: 1px 75px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    color: #ff85b8;
+	font-family: 'Jua', sans-serif;
+
+}
+
+
+label[for="terms"] {
+    display: inline-block;
+    width: 80%;
+    margin-left: 10px;
+}
+
+
+.hide {
+    display: none!important;
+}
+
+#animation-container {
+    display: inline-block;
+}
+
+/* responsive display */
+
+@media(max-width:1438px) {
+    lottie-player {
+        width: 300px!important;
+    }
+}
+
+@media(max-width:1124px) {
+    #animation-container {
+        display: none;
+    }
+
+    #form-inner-container{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 684px) {
+    #form-controls {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    form input{
+        width: 100%;
+    }
+
+    #toggleSignIn, #toggleSignUp {
+        padding: 16px 75px;
+    }
+
+    #terms {
+        width: 20px;
+        height: 20px;
+    }
+    
+    label[for="terms"] {
+        display: inline-block;
+        font-size: smaller;
+    }
+}
+	
+.button{
+    color: #ffffff;
+   
+    background-color: #ffc3dc;
+
+    font-family: 'Jua', sans-serif;
+    font-size: 0.8em;
+
+    border-radius: 25px;
+}
+
+
+</style>
+	
+
+	</head>
+	<body>     <!-- class="is-preload" -->
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+					<!-- Header -->
+
+				
+				<header id="header" class="alt" style="background-color: #ffd9e9;">    <!--메뉴상단 배경색깔-->
+					<a href="./index_notlog.html" class="logo"  style=" font-size: 38px; color: white; "> 임자야</a>
+					<nav>
+						<a href="#menu" style=" font-size: 25px; color: white; ">Menu</a>
+					</nav>
+				</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="../i_login/login.html">인연찾기</a></li>
+							<li><a href="../i_login/login.html">모임찾기</a></li>
+							<li><a href="../i_login/login.html">프로필</a></li>
+							<li><a href="../i_login/login.html">메세지</a></li>
+						</ul>
+						<ul class="actions stacked" style="font-size: 1.1em;">
+							<li><a href="../i_index/index_notlog.html" class="button primary fit" >홈으로</a></li>
+							<li><a href="../i_login/login.html" class="button fit">로그인</a></li>
+						</ul>
+					</nav>
+
+				<!--콘텐츠 부분 시작-->
+				
+				<!-- Banner -->
+					
+				<div id="form-container">
+					<div id="form-inner-container">
+				
+				
+				
+					  <!--로그인 화면 -->
+					  <div id="sign-up-container"  style="width: 500px;  "  >
+				
+
+						<!--로그인폼 이미지부분-->
+
+						<div style="text-align: center; ">
+							<img src="images/로고1.png" alt=""  style=" width: 80%; margin-bottom: 1.2em; ">
+						</div>
+
+
+
+
+						
+						<form action="LoginCon.do" method="post">
+						  
+						  <label for="text">아이디</label>
+						  <input type="text" name="id" id="email" placeholder="아이디">
+				
+						  
+				
+						  <label for="password">비밀번호</label>
+						  <input type="password" name="pw" id="password" placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;&#9679;">
+				
+						 
+				
+						  <div id="form-controls" >
+							<br>
+							<button type="submit"  > 로그인</button>
+							<br>
+							<button type="button" id="toggleSignIn" >회원가입</button>
+						  </div>
+				
+				
+						  
+						</form>
+					  </div>
+				
+					  <!-- 회원가입 화면 -->
+				
+					  <div id="sign-in-container" class="hide" style="width: 600px;">
+				
+				
+					  <form action="JoinCon.do" method="post" >
+					 
+						<h1 style="text-align: center; margin-bottom: 50px;">회원가입</h1>
+						
+						  <label for="username">이름</label>
+						  <input type="text" name="name" id="username" placeholder="이름입력">
+				
+						  <label for="username">아이디</label>
+						  <input type="text" name="id" id="userid" placeholder="아이디입력">
+				
+						  <label for="password">비밀번호</label>
+						  <input type="password" name="pw" id="password" placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;&#9679;">
+				
+						  <label for="username">닉네임</label>
+						  <input type="text" name="nick" id="usernick" placeholder="닉네임입력">
+				
+						  <label for="username">생년월일</label>
+						  <input type="date" name="birthdate" id="birth" >
+				
+						 
+						  <label for="username"  >성별</label>
+
+						  <div style="margin: 5%;">
+		
+							<select name="gender" id="gender">
+
+								<option value="M" >남성</option>
+								<option value="F">여성</option>
+	
+							 </select>
+
+						   </div>
+
+						  <label for="username">전화번호</label>
+						  <input type="text" name="phone" id="phone" placeholder="- 없이 전화번호 입력">
+						  
+
+						  <label for="username">사는지역</label>
+
+							<div style="margin: 5%;">
+						
+								<select name="location" id="location">
+									<option value="서울시">서울시</option>
+									<option value="경기도">경기도</option>
+									<option value="인천시">인천시</option>
+									<option value="부산시">부산시</option>
+									<option value="대전시">대전시</option>
+									<option value="대구시">대구시</option>
+									<option value="울산시">울산시</option>
+									<option value="광주시">광주시</option>
+					
+									<option value="강원도">강원도</option>
+									<option value="충청북도">충청북도</option>
+									<option value="충청남도">충청남도</option>
+									<option value="경상북도">경상북도</option>
+									<option value="경상남도">경상남도</option>
+									<option value="전라북도">전라북도</option>
+									<option value="전라남도">전라남도</option>
+									<option value="제주도">제주도</option>
+							
+								</select>
+							</div>
+
+							<p></p>
+				
+						  <div id="form-controls">
+							<button type="submit"  >회원정보 작성</button>
+						<p></p>
+							<button type="button" id="toggleSignUp"    >로그인</button>
+						  </div>
+				
+						  
+						</form>
+					  </div>
+				
+					  <!-- Lottie animation -->
+					  <!-- <div id="animation-container">
+						<lottie-player src="https://assets3.lottiefiles.com/packages/lf20_aesgckiv.json"  background="transparent"  speed="1"  style="width: 520px; height: 520px;" loop autoplay></lottie-player>
+					  </div> -->
+					</div>
+				</div>
+				
+				
+				
+				<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+				<script type="text/JavaScript" src="../assets/js/login_join.js"></script>
+				
+
+
+
+
+			
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
