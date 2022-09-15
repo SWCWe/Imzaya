@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sjhyung12?tab=repositories" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/jeongmmm?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/juhyeparkkk?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/Anhyeonjoo?tab=repositories" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/SWCWe?tab=repositories" target='_blank'>github</a></td>
