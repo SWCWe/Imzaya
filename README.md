@@ -89,7 +89,6 @@
 ![](https://velog.velcdn.com/images/sjhyung/post/531942f3-5c5c-49fa-9096-0502a9ff3f00/image.gif)
 
 # 프로필
-![](https://velog.velcdn.com/images/sjhyung/post/cfdf787d-3b2b-4e82-8eae-6a9dc7d3088c/image.gif)
 
 # 인연 찾기
 ![](https://velog.velcdn.com/images/sjhyung/post/5d516740-c73c-494f-9c70-648f7367995f/image.gif)
@@ -98,6 +97,7 @@
 ![](https://velog.velcdn.com/images/sjhyung/post/635c12bd-866e-4c82-845d-624b93e8dc00/image.gif)
 
 # 모임 찾기
+
 ![](https://velog.velcdn.com/images/sjhyung/post/2295b216-5442-4694-804d-64987d93a8d0/image.gif)
 ![](https://velog.velcdn.com/images/sjhyung/post/e6ab63f6-2148-474f-a05b-49634adf73f7/image.gif)
 
