@@ -97,8 +97,11 @@
 ![](https://velog.velcdn.com/images/sjhyung/post/635c12bd-866e-4c82-845d-624b93e8dc00/image.gif)
 
 # 모임 찾기
+![3](https://user-images.githubusercontent.com/71622615/194779312-748b6f2a-1e85-4a63-8fb1-cf6263bd4436.gif)
+![2](https://user-images.githubusercontent.com/71622615/194779324-c219eb17-679e-44b7-9599-04f151fb2383.gif)
 
 ![](https://velog.velcdn.com/images/sjhyung/post/2295b216-5442-4694-804d-64987d93a8d0/image.gif)
+
 ![](https://velog.velcdn.com/images/sjhyung/post/e6ab63f6-2148-474f-a05b-49634adf73f7/image.gif)
 
 
