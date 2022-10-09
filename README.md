@@ -78,21 +78,17 @@
 # 📌E-R Diagram
 ![리얼최종_er_다이어그램](https://user-images.githubusercontent.com/71622615/189047602-9b437930-928e-4dbb-b38b-b09bd9da2724.png)
 
-
 # 💻 서비스 흐름
 ![서비스흐름도_리얼](https://user-images.githubusercontent.com/71622615/189047622-808b8717-7890-49b5-a90d-1a343ad1d00d.png)
 
-# 회원 가입
-
-# 프로필
-![image](https://user-images.githubusercontent.com/71622615/194779753-9fed82c3-808b-4f40-b821-2e1e97d62e55.png)
+# 메인 화면
+![메인화면](https://user-images.githubusercontent.com/71622615/189047654-2a9753d3-a35a-4857-9626-af7ffb6b2354.png)
 
 # 인연 찾기
-
-# 메세지
+![인연찾기](https://user-images.githubusercontent.com/71622615/189047680-adbd93b9-d30c-4d9e-bd1b-22abf135acce.png)
 
 # 모임 찾기
-
+![모임찾기](https://user-images.githubusercontent.com/71622615/189047695-91e93137-a268-419d-b43e-4b09e2d201a3.png)
 
 # 👨‍👩‍👦‍👦 팀원 역할
 <table>
