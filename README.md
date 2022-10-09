@@ -91,18 +91,18 @@
 # 프로필
 
 # 인연 찾기
-![](https://velog.velcdn.com/images/sjhyung/post/5d516740-c73c-494f-9c70-648f7367995f/image.gif)
+
+![5](https://user-images.githubusercontent.com/71622615/194779633-3cfbcd81-ea30-476c-8d43-2cbd11495532.gif)
+
+![7](https://user-images.githubusercontent.com/71622615/194779658-97c87dec-59cb-40f6-9d92-4f92d1715e6f.gif)
+![8](https://user-images.githubusercontent.com/71622615/194779666-71e858da-1554-4181-aab3-32e16a4c58e8.gif)
 
 # 메세지
-![](https://velog.velcdn.com/images/sjhyung/post/635c12bd-866e-4c82-845d-624b93e8dc00/image.gif)
+
 
 # 모임 찾기
-![3](https://user-images.githubusercontent.com/71622615/194779312-748b6f2a-1e85-4a63-8fb1-cf6263bd4436.gif)
-![2](https://user-images.githubusercontent.com/71622615/194779324-c219eb17-679e-44b7-9599-04f151fb2383.gif)
 
-![](https://velog.velcdn.com/images/sjhyung/post/2295b216-5442-4694-804d-64987d93a8d0/image.gif)
 
-![](https://velog.velcdn.com/images/sjhyung/post/e6ab63f6-2148-474f-a05b-49634adf73f7/image.gif)
 
 
 # 👨‍👩‍👦‍👦 팀원 역할
