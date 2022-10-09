@@ -3,9 +3,6 @@
 ![제일맨위1](https://user-images.githubusercontent.com/71622615/189047571-c23f6bfb-71b4-4a17-8f62-3cd54f2d0a4c.png)
 
 
-
-
-
 # 👀 프로젝트 소개
 * 프로젝트명 : 황혼 데이팅 서비스 임자야
 * 개발목표 : 고령화 사회로 접어들면서 노년기 우울증, 노인 소외, 황혼 이혼이 사회적 문제로 제기되고 있으며 이를 겪는 노년 인구의 비율이 점차 증가 하고 있다.
@@ -86,23 +83,15 @@
 ![서비스흐름도_리얼](https://user-images.githubusercontent.com/71622615/189047622-808b8717-7890-49b5-a90d-1a343ad1d00d.png)
 
 # 회원 가입
-![](https://velog.velcdn.com/images/sjhyung/post/531942f3-5c5c-49fa-9096-0502a9ff3f00/image.gif)
 
 # 프로필
+![image](https://user-images.githubusercontent.com/71622615/194779753-9fed82c3-808b-4f40-b821-2e1e97d62e55.png)
 
 # 인연 찾기
 
-![5](https://user-images.githubusercontent.com/71622615/194779633-3cfbcd81-ea30-476c-8d43-2cbd11495532.gif)
-
-![7](https://user-images.githubusercontent.com/71622615/194779658-97c87dec-59cb-40f6-9d92-4f92d1715e6f.gif)
-![8](https://user-images.githubusercontent.com/71622615/194779666-71e858da-1554-4181-aab3-32e16a4c58e8.gif)
-
 # 메세지
 
-
 # 모임 찾기
-
-
 
 
 # 👨‍👩‍👦‍👦 팀원 역할
